@@ -1,5 +1,7 @@
 # floating-point-regex [![NPM version](https://img.shields.io/npm/v/floating-point-regex.svg?style=flat)](https://www.npmjs.com/package/floating-point-regex) [![NPM monthly downloads](https://img.shields.io/npm/dm/floating-point-regex.svg?style=flat)](https://npmjs.org/package/floating-point-regex)  [![NPM total downloads](https://img.shields.io/npm/dt/floating-point-regex.svg?style=flat)](https://npmjs.org/package/floating-point-regex) [![Linux Build Status](https://img.shields.io/travis/regexhq/floating-point-regex.svg?style=flat&label=Travis)](https://travis-ci.org/regexhq/floating-point-regex)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/regexhq/floating-point-regex.svg)](https://greenkeeper.io/)
+
 > Regular expression for matching floating-point literals.
 
 ## Install
